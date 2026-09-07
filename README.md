@@ -1,7 +1,7 @@
 ### 🤘 Olá, eu sou Marcelo Coimbra!
 
 - 👽 Atualmente sou **Agente Administrativo**
-- 🚀 Estudante de **Análise e Desenvolvimento de Sistemas**, motivado pela curiosidade e pela vontade de aprender
+- 🚀 Formado em **Análise e Desenvolvimento de Sistemas**, motivado pela curiosidade e pela vontade de aprender
 
 ---
 
