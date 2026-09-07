@@ -15,9 +15,17 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Coimbra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Coimbra&layout=compact&langs_count=8&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Marcelo-Coimbra&hide_border=true"/>
 
 </div>
 
